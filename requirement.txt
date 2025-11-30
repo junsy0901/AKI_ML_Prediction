@@ -1,0 +1,16 @@
+# Data Analysis & Mathematics
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+
+# Machine Learning & Modeling
+scikit-learn==1.7.2
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Visualization
+matplotlib==3.10.6
+
+# Utilities (Environment)
+ipykernel==7.1.0
+ipython==9.7.0
